@@ -1,39 +1,75 @@
 # Hi, I’m Rajesh Hirpara 👋
 
-### Building developer tools with .NET, Azure, and AI coding agents
+### Senior .NET Developer · Backend Engineer · AI Integration
 
-I build applications and explore ways to make AI-assisted development easier to understand, review, and maintain. My projects span C#/.NET, Azure, infrastructure automation, and Node.js.
+I build enterprise and SaaS web applications, REST APIs, and workflow automation with C#, ASP.NET MVC, ASP.NET Core, SQL Server, and Azure. My experience spans HR platforms, real-time messaging, ERP systems, and international client projects.
 
-## Currently building: Agent Pipeline
+I also work with OpenAI integrations, RAG chatbots, and coding agents—bringing practical AI capabilities into existing applications.
 
-[Agent Pipeline](https://github.com/hirpararajesh99/agent-pipeline) is a zero-dependency Node.js tool that guides external coding agents through planning, implementation, validation, QA, and delivery.
+**[LinkedIn](https://www.linkedin.com/in/rajesh-hirpara/)** · **[Agent Pipeline](https://github.com/hirpararajesh99/agent-pipeline)** · **[Project docs](https://hirpararajesh99.github.io/agent-pipeline-docs/)**
 
-**Project Brain** adds reusable project understanding:
+Open to international remote opportunities in .NET/backend development and AI integration.
 
-- Findings linked to source paths, line ranges, and SHA-256 hashes.
-- On-demand freshness checks and selective refresh with preserved history.
-- Developer decisions, explicit conflicts, and reviewed lessons.
-- Documentation excerpts and relevant source paths for ticket context.
+## What I bring
 
-The project is a developer preview. Matching source hashes establish evidence identity; interpretation still needs review.
+- **Backend engineering:** enterprise application modules, public REST APIs, SQL-backed workflows, and Redis caching.
+- **Workflow automation:** Quartz-based task scheduling, lifecycle-triggered employee tasks, scheduled emails, and meeting tasks.
+- **API controls:** pre-shared-key authentication, Redis-backed sliding-window rate limiting, IP allowlisting, and company-specific policies.
+- **Production troubleshooting:** heap profiling and debugging, including resolving a Popper.js memory leak.
+- **AI integration:** OpenAI API, retrieval-augmented generation, platform agents, and structured context for coding tools.
+- **Delivery and collaboration:** international client work, code review, and mentoring junior developers.
 
-**[Explore the source →](https://github.com/hirpararajesh99/agent-pipeline)** · **[Read the docs →](https://hirpararajesh99.github.io/agent-pipeline-docs/)**
+## Experience
 
-## Technologies I work with
+| Role | Organization | Period |
+| --- | --- | --- |
+| Senior Software Developer, Consultant (remote freelance) | Plumm | Aug 2023 – Sep 2026 |
+| Senior Software Developer | HypeTeq Software Solutions Pvt. Ltd. | May 2022 – Jul 2023 |
+| ASP.NET Developer | WeTheDevelopers | Sep 2018 – Apr 2022 |
+| ASP.NET Developer | Infinity Infoway Private Limited | Nov 2016 – Sep 2018 |
 
-**C# · .NET · ASP.NET Core · Azure · Terraform · JavaScript · Node.js · Git**
+At **Plumm**, I developed HR modules covering task scheduling, performance and goals, onboarding, offboarding, and permissions. My work also included public APIs, Redis cache-aside access, configurable GridStack.js dashboards, email passcode verification, and AI integrations.
 
-## Selected projects
+At **HypeTeq**, I worked on IoT and e-commerce client projects, mentored two junior developers, and created Azure DevOps classic build pipelines with authenticated private NuGet package restoration.
 
-| Project | Focus |
+## Technologies
+
+| Area | Stack |
 | --- | --- |
-| [Agent Pipeline](https://github.com/hirpararajesh99/agent-pipeline) | Coding-agent workflows and evidence-linked project knowledge |
-| [Azure App Service with Terraform](https://github.com/hirpararajesh99/DevOps.Terraform.AzureAppService) | Infrastructure for a web application and database on Azure |
-| [.NET 6 sample](https://github.com/hirpararajesh99/DotNetCore6) | Application structure using the repository pattern |
-| [ASP.NET Core & Azure Functions](https://github.com/hirpararajesh99/ASPNETCore-WebAPI-With-AzureFuncation) | Web API and Azure Functions examples |
+| Backend | C#, ASP.NET Core, ASP.NET MVC, .NET Framework 4.8, Web API, Entity Framework Core |
+| Data & caching | SQL Server, MySQL / MariaDB, Redis |
+| Frontend | JavaScript, Vue.js, jQuery, HTML, CSS, DevExtreme, GridStack.js |
+| Cloud & delivery | Azure App Service, Azure Functions, Blob Storage, CDN, Azure DevOps CI, IIS, Git |
+| AI & automation | OpenAI API, RAG, AI agents, n8n, Codex, Claude Code, Quartz |
 
-## What I’m exploring
+## Building in the open: Agent Pipeline
 
-Keeping project context aligned with changing code, preserving developer reasoning, and making agent handoffs traceable through evidence and meaningful checks.
+[Agent Pipeline](https://github.com/hirpararajesh99/agent-pipeline) is a zero-dependency Node.js orchestration tool that guides external coding agents through planning, implementation, validation, QA, and delivery.
 
-For Agent Pipeline feedback, ideas, or bugs, [open an issue](https://github.com/hirpararajesh99/agent-pipeline/issues).
+Its **Project Brain** workflow records source-linked findings with file hashes and line references, checks evidence freshness on demand, and preserves revisions, developer decisions, conflicts, and reviewed lessons.
+
+The project is a developer preview. Source hashes establish evidence identity; interpreting the code still needs review.
+
+**[Explore the source →](https://github.com/hirpararajesh99/agent-pipeline)** · **[Read the developer guide →](https://hirpararajesh99.github.io/agent-pipeline-docs/)**
+
+## Selected application work
+
+- **Quantfy:** built a stock-analysis platform for Indian markets using Vue.js, Laravel, and MySQL, including screening, fundamental scoring, and momentum analysis.
+- **Plumm:** HR and mental-health SaaS development with ASP.NET MVC, SQL Server, jQuery, and OpenAI API integration.
+- **1ST Messenger:** real-time mobile messaging backend using ASP.NET Core, Web API, C#, and XMPP.
+- **Novva Data Center ERP:** customer support and ticket management workflows.
+- **Low-Cost Interlock Customer Portal:** booking, payment, and reporting workflows.
+
+## How clients describe working with me
+
+In a LinkedIn recommendation, **Dr. Nisheet Patel** describes more than two years of collaboration across Quantfy, a Chrome extension, and the Finvitals website, highlighting technical depth, reliability, clear communication, proactive problem-solving, and end-to-end ownership. Other recommendations highlight code quality, teamwork, and .NET/Azure delivery.
+
+[Read recommendations on LinkedIn →](https://www.linkedin.com/in/rajesh-hirpara/)
+
+## Education
+
+Bachelor of Computer Science, Distinction — Saurashtra University, 2011–2014.
+
+## Connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/rajesh-hirpara/) for professional opportunities and engineering conversations. For Agent Pipeline ideas or bugs, [open an issue](https://github.com/hirpararajesh99/agent-pipeline/issues).
